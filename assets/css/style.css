@@ -1111,6 +1111,10 @@ a:hover {
 
 .work-content {
   padding: 2rem 3% 1rem 4%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
 }
 
 .work-content .w-more {
